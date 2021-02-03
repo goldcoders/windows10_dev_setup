@@ -103,3 +103,5 @@ characters: ABCDEFGHIJKLMNOPQRSTUVWXYZabcdefghijklmnopqrstuvwxyz1234567890~!@#$%
 
 // Try adding new Pass Either with Qtpass or powershell pass function both will work :)
 ```
+
+![qt-settings](https://user-images.githubusercontent.com/55337687/106733741-386b4080-664d-11eb-893a-70d41bc53008.png)
