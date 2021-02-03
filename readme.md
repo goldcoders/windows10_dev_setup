@@ -1,38 +1,51 @@
-# Windows 10 App for Flutter Development
+# Windows 10 App for App Development
 
-## Windows Store Apps
+## Install the Following App/Packages
 
-- WSL
-- WinGet
-- Terminal
+Note: For Conveniece You Need to Install First the Following package manager
+
+### Package Managers
+
+- winget
+- choco
+- scoop
+
+## All Apps to be Installed
+
+### On MS Store
+
+- wsl
 
 
-## Official Site Apps
+### Official App Website
 
 - mysql &  mysqlworkbench
-- Google Drive
 - MegaSync
 - vlang
 - mingw-w64
-- powershell
-- php-storm
+- php-storm (latest)
 - UnxUtils
 - Draw.io
-- Go
 - rustup-init
-- Docker Desktop
 - Android Studio
-- VS_community
+- VS_community (Visual Studio)
 - Glary Utils
-- Hugo
-  
-## Powershell
 
-- Scoop
-- Choco
+### Winget
 
+- VScode
+- window terminal
+- powershell 7
+- Meld
+- GoLang.Go
+- GnuPG
+- GitHub Desktop
+- GitHub CLI
+- Docker Desktop
+- BlueStacks
+- BleachBit
 
-## Choco
+### Choco
 
 - OpenSSL
 - PHP
@@ -43,29 +56,33 @@
 - pwgen
 - qtpass
 - ruby
+- composer
+- Gpg4win
+- pass4win
+- nift
+- hugo
 
-
-## Pip
+### Pip
 
 - Pipx
 - jrnl
 
 
-## Dart Pub
+### Dart Pub
 
 - devtools
 - fvm
 - get-cli
   
 
-## Composer Packages
+### Composer Packages
 
 - laravel
 - expose
 - valet
 
 
-## Scoop Apps
+### Scoop Apps
 
 - alacritty
 - archwsl
@@ -84,9 +101,11 @@
 - unlocker
 - vim
 - zeal
+- gdrive
+- vt-cli
 
 
-## NPM Packages
+### NPM Packages
 
 - neovim-node-host
 - vue
@@ -94,7 +113,7 @@
 - netlify-cli
 - alacritty-themes
 
-
+## Set Up ENV VAR
 
 ## User Path
 
