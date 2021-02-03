@@ -1,6 +1,7 @@
 # Set Up Flutter in Windows 10 the Right Way
 
 ## basic requirements
+
 - choco
 
 ## install dart-sdk
@@ -10,6 +11,7 @@ sudo choco install dart-sdk
 ## to enable pub command in the system add to env path the 2
 
 C:\tools\dart-sdk\bin
+
 %USERPROFILE%\AppData\Local\Pub\Cache\bin
 
 ## Install flutter version manager
@@ -19,8 +21,11 @@ pub global activate fvm
 ## Install flutter 
 
 fvm install stable
+
 fvm install beta
+
 fvm install dev
+
 
 ## Set Default Flutter Version
 
@@ -53,4 +58,6 @@ add the following line
 ## Changing SDK on vscode
 
 - type `ctrl + p` then type `Flutter: Change SDK` then enter
+
 - choose your sdk version suited for you project
+
