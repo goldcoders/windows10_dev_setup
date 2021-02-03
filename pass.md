@@ -92,12 +92,14 @@
 
 - Since no pwgen command is available in windows
 
-You can either create a .bat file and link that to pwgen counter part in windows like the pass command
+```js
+// You can either create a .bat file and link that to pwgen counter part in windows like the pass command
 
-You can always set up `password generation` in Qtpass with the characters you want to use and max lenght
+// You can always set up `password generation` in Qtpass with the characters you want to use and max lenght
 
 ie: max length = 18
 
 characters: ABCDEFGHIJKLMNOPQRSTUVWXYZabcdefghijklmnopqrstuvwxyz1234567890~!@#$%^&*()_-+={}[]|:;<>,.?
 
-Try adding new Pass Either with Qtpass or powershell pass function both will work :)
+// Try adding new Pass Either with Qtpass or powershell pass function both will work :)
+```
