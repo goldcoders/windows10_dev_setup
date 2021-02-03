@@ -96,9 +96,15 @@ C:\Program Files\MySQL\MySQL Workbench 8.0 CE\
 
 `laravel new blog`
 
+`cd blog`
+
 - link new site
 
 `valet link`
+
+- view site
+
+http://blog.test
 
 - expose site to public online
 
