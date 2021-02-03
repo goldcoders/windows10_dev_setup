@@ -84,5 +84,26 @@ C:\Program Files\MySQL\MySQL Workbench 8.0 CE\
 
 `sudo choco install SQLite`
 
+## Set Up Valet
+- Make Sure you are on an Administrator Powershell
+
+`valet install`
+`valet start`
+
+## Usage
+
+- create new laravel app
+
+`laravel new blog`
+
+- link new site
+
+`valet link`
+
+- expose site to public online
+
+`valet expose`
+
+
 
 
