@@ -1,4 +1,4 @@
-# Windows 10 App for App Development
+# Windows 10 App for App Development Overview of All Apps Installed
 
 ## Install the Following App/Packages
 
