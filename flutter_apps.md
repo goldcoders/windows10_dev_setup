@@ -2,34 +2,34 @@
 
 ## basic requirements
 
-- choco
+- `choco`
 
 ## install dart-sdk
 
 sudo choco install dart-sdk
 
-## to enable pub command in the system add to env path the 2
+## to enable pub command in the system add to env path
 
-C:\tools\dart-sdk\bin
+`C:\tools\dart-sdk\bin`
 
-%USERPROFILE%\AppData\Local\Pub\Cache\bin
+`%USERPROFILE%\AppData\Local\Pub\Cache\bin`
 
 ## Install flutter version manager
 
-pub global activate fvm
+`pub global activate fvm`
 
 ## Install flutter 
 
-fvm install stable
+`fvm install stable`
 
-fvm install beta
+`fvm install beta`
 
-fvm install dev
+`fvm install dev`
 
 
 ## Set Default Flutter Version
 
-fvm use stable --global
+`fvm use stable --global`
 
 ## add sdk command in powershell
 
@@ -44,7 +44,7 @@ Note: you can use pub global run fvm:main use `version` but this shortcut comman
 
 ## Set up your VS code settings to use different flutter sdk version
 
-code %appdata%\Code\User\settings.jsoon
+`code %appdata%\Code\User\settings.jsoon`
 
 add the following line
 
