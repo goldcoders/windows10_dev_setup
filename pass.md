@@ -34,9 +34,13 @@ sudo choco install qtpass
 - open qtpass
 - Find gpg command
 Get-Command gpg
+- if gpg is not found try to install it
+sudo choco install Gpg4win
 - Add the File .exe path to Qtpass
 - Find git command
 Get-Command git
+- If git is not installed try to install it
+sudo choco install git
 - Add the File .exe path to Qtpass
 - add this path to QtPass `/Arch/home/$YOURUSERNAME/.password-store`
 - Since no pwgen command is available in windows
