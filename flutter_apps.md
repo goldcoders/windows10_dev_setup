@@ -44,7 +44,7 @@ Note: you can use pub global run fvm:main use `version` but this shortcut comman
 
 ## Set up your VS code settings to use different flutter sdk version
 
-`code %appdata%\Code\User\settings.jsoon`
+`code $env:appdata\Code\User\settings.json`
 
 add the following line
 
