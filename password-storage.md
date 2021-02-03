@@ -88,7 +88,7 @@
 
 - add this path to QtPass 
 
-`/Arch/home/$YOURUSERNAME/.password-store`
+`%USERPROFILE%\.password-store`
 
 - Since no pwgen command is available in windows
 
