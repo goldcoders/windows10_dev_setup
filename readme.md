@@ -1,4 +1,4 @@
-# Windows 10 App for FullStack laravel/flutter Developer
+# Windows 10 App for Flutter Development
 
 ## Windows Store Apps
 
